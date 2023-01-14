@@ -2,8 +2,8 @@ Portfolio Assignment
 ==========================================
 ![Assignment Checks](https://github.com/IT3049C/1.student-portfolio/workflows/Assignment%20Checks/badge.svg)
 
-
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/online-portfolio/).
+
 ## Checklist:
 - [ ] update the assignment checks above to the correct link
 - [ ] fill out the self evaluation and Reflection
