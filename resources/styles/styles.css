@@ -12,20 +12,37 @@ img {
 }
 
 h1 {
-  text-align: left;
-  padding-bottom: 60px;
-  position: absolute;
-  left: 8%;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 #personalBackground {
   position: absolute;
   top: 18%;
-  left: 8%;
+  left: 5.5%;
+}
+
+#experience {
+  position: absolute;
+  top: 40%;
+  left: 30%;
 }
 
 #programmingLanguages {
   position: absolute;
   top: 40%;
+  left: 65%;
+}
+
+#achievements {
+  position: absolute;
+  top: 60%;
   left: 30%;
+}
+
+#games {
+  position: absolute;
+  top: 60%;
+  left: 65%;
 }
