@@ -1,3 +1,31 @@
-.section {
+body {
   background-color: #ebedcc;
+}
+
+img {
+  width: 300px;
+  position: absolute;
+  top: 40%;
+  left: 8%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+h1 {
+  text-align: left;
+  padding-bottom: 60px;
+  position: absolute;
+  left: 8%;
+}
+
+#personalBackground {
+  position: absolute;
+  top: 18%;
+  left: 8%;
+}
+
+#programmingLanguages {
+  position: absolute;
+  top: 40%;
+  left: 30%;
 }
